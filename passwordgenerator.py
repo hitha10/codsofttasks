@@ -84,13 +84,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-" Hello connections!
-Iam excited to share my journey of my Python Development internship ! 🐍 🖥
-
-Over the past few weeks ,I have had the opportunity to work on three exciting tasks ;
-1. Developing a handy to-do list application
-2. Building a calculator
-3. Creating a robust password generator 🔒
-
-I am proud of the progress i have made and the skills i have honed during
-this internship . Its been learning experience CodSoft
